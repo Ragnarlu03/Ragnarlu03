@@ -9,4 +9,4 @@
 
 ### Exemple of work
 
-![An old rock in the desert](C:\Users\mc936\OneDrive\Pictures\Screenshots)
+!(C:\Users\mc936\OneDrive\Pictures\Screenshots)
