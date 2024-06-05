@@ -3,7 +3,7 @@
 
 我就讀於輔仁大學金融與國際企業學系，現在正在幫老師代課。I made this project just for fun, so the content and image are not me. 
 
-##　Skills
+## Skills
 Cry / Make you cry / Handsome / more Handsome
 
 
