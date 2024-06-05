@@ -11,7 +11,7 @@ ASTRO成員
 
 ## Exemple of works
 <a href="https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84ID%E6%98%AF%E6%B1%9F%E5%8D%97%E7%BE%8E%E4%BA%BA">我的id是江南美人</a>
-<a href="[https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84ID%E6%98%AF%E6%B1%9F%E5%8D%97%E7%BE%8E%E4%BA%BA](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%A5%E5%8F%B2%E5%AE%98%E4%B8%98%E6%B5%B7%E6%98%A4)">新入史官丘海昤</a>
+<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%A5%E5%8F%B2%E5%AE%98%E4%B8%98%E6%B5%B7%E6%98%A4">新入史官丘海昤</a>
 <a href="[https://zh.wikipedia.org/wiki/%E6%88%91%E7%9A%84ID%E6%98%AF%E6%B1%9F%E5%8D%97%E7%BE%8E%E4%BA%BA](https://zh.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E9%99%8D%E8%87%A8_(%E9%9B%BB%E8%A6%96%E5%8A%87))">女神降臨</a>
 
 
