@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-#Mike Lu
+# Mike Lu
 我叫Mike Lu，目前就讀於輔仁大學
