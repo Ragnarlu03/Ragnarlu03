@@ -3,9 +3,14 @@
 
 我就讀於輔仁大學金融與國際企業學系，現在正在幫老師代課。I made this project just for fun, so the content and image are not me. 
 
-Skills: Cry / Dissapoint / Feel unworthy / Stressful / make you stressful too
+##　Skills
+Cry / Make you cry / Handsome / more Handsome
 
-- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
